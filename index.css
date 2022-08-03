@@ -1,0 +1,11 @@
+.container{
+        
+    position: absolute;
+    top:50%;
+    left: 50%;
+    color:darkgreen;
+}
+h1{
+    font-style: italic;
+    font-size: 100PX;
+}
