@@ -7,6 +7,6 @@ setInterval(function(){
         id.innerHTML = counter;
     }
     if(counter === 0){
-        id.innerHTML = "OOMBU!!!";
+        id.innerHTML = "HAPPY INDEPENDENCE DAY!!!";
     }
 }, 1500);
